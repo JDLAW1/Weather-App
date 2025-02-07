@@ -1,2 +1,2 @@
 # Weather-App
-Created with CodeSandbox
+Se me olvido hacer los commits iniciales jajaja
